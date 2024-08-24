@@ -14,7 +14,7 @@ timezone: Africa/Nairobi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jamesh Writes Security # the main title
+title: J.M.K Writes Security # the main title
 
 tagline: A security writeup website for  InfoSec adventures # it will display as the sub-title
 
@@ -28,6 +28,9 @@ url: "https://username.github.io"
 github:
   username: jameshmwangi # change to your github username
 
+linkedin:
+  username: jamesh-mwangi
+
 twitter:
   username: jameshqater # change to your twitter username
 
@@ -38,11 +41,14 @@ social:
   email: jameshmwangiy@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/jameshqater # change to your twitter homepage
+    # - https://twitter.com/jameshqater # change to your twitter homepage
+    - https://www.linkedin.com/in/jamesh-mwangi
+
     - https://github.com/jameshmwangi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/jamesh-mwangi
+    # - https://www.linkedin.com/in/jamesh-mwangi
+    - https://twitter.com/jameshqater
 
 # Site Verification Settings
 webmaster_verifications:
@@ -96,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/profile3.jpeg"
+avatar: "/assets/images/jmk.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
