@@ -1,9 +1,10 @@
 ---
-title:  FLAWS.cloud Common AWS Vulnerabilities  
-date: 2024-09-16 12:18:00 +0300
+title: "FLAWS.cloud Common AWS Vulnerabilities"
+date: 2024-09-16 16:16:00 +0300
 categories: [aws security, cloud security, vulnerabilities, flaws.cloud]
 tags: [aws security, cloud vulnerabilities, encryption, key management, security best practices, flaws.cloud]
 ---
+
 
 
  
