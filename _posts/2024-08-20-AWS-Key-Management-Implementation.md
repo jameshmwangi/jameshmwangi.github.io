@@ -9,10 +9,10 @@ tags: [aws, encryption, keys, cloud, security]
  
 [![awskmsblog1.png](https://i.postimg.cc/0NVxt0cx/awskmsblog1.png)](https://postimg.cc/PLvBJZgF)
 
-AWS Key Management Implementation
+# <span style="color:red;">AWS Key Management Implementation </span>
 
 
-Report by: James Mwangi  AKA Jamesh
+<span style="color:red;">Report by: James Mwangi  AKA Jamesh</span>
 
 [![image6.png](https://i.postimg.cc/FHTTrPrS/image6.png)](https://postimg.cc/gx6V4H6c)
 

@@ -10,10 +10,10 @@ tags: [aws security, cloud vulnerabilities, encryption, key management, security
  
 [![Banner-Hero-Image.png](https://i.postimg.cc/rFghMSL7/Banner-Hero-Image.png)](https://postimg.cc/8jJdbfcb)
 
-# Common AWS Vulnerabilities in FLAWS.cloud Lab 
+# <span style="color:red;"> Common AWS Vulnerabilities in FLAWS.cloud Lab </span>
 
 
-#### Report by: James Mwangi  AKA Jamesh
+####  <span style="color:red;">Report by: James Mwangi  AKA Jamesh </span>
 
 
 
