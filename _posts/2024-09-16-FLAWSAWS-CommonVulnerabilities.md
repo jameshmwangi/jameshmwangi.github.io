@@ -9,7 +9,7 @@ toc: true
 
 
  
-[![Banner-Hero-Image.png](https://i.postimg.cc/rFghMSL7/Banner-Hero-Image.png)](https://postimg.cc/8jJdbfcb)
+
 
 # <span style="color:blue;"> Common AWS Vulnerabilities in FLAWS.cloud Lab </span>
 

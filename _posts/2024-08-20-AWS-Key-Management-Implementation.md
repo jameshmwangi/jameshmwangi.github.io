@@ -8,7 +8,7 @@ toc: true
 
 
  
-[![awskmsblog1.png](https://i.postimg.cc/0NVxt0cx/awskmsblog1.png)](https://postimg.cc/PLvBJZgF)
+
 
 # <span style="color:blue;">AWS Key Management Implementation </span>
 
