@@ -3,6 +3,7 @@ title: "FLAWS.cloud Common AWS Vulnerabilities"
 date: 2024-09-16 16:16:00 +0300
 categories: [aws security, cloud security, vulnerabilities, flaws.cloud]
 tags: [aws security, cloud vulnerabilities, encryption, key management, security best practices, flaws.cloud]
+toc: true
 ---
 
 
@@ -10,10 +11,10 @@ tags: [aws security, cloud vulnerabilities, encryption, key management, security
  
 [![Banner-Hero-Image.png](https://i.postimg.cc/rFghMSL7/Banner-Hero-Image.png)](https://postimg.cc/8jJdbfcb)
 
-# <span style="color:red;"> Common AWS Vulnerabilities in FLAWS.cloud Lab </span>
+# <span style="color:blue;"> Common AWS Vulnerabilities in FLAWS.cloud Lab </span>
 
 
-####  <span style="color:red;">Report by: James Mwangi  AKA Jamesh </span>
+####  <span style="color:blue;">Report by: James Mwangi (Jamesh) </span>
 
 
 
