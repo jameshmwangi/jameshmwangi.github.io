@@ -4,18 +4,13 @@ date: 2024-08-20 12:08:00 +0300
 categories: [aws, cloud, encryption]
 tags: [aws, encryption, keys, cloud, security]
 toc: true
+toc_label: "Contents"
+toc_sticky: true
 ---
 
 
+
  
-
-
-# <span style="color:blue;">AWS Key Management Implementation </span>
-
-
-<span style="color:blue;">Report by: James Mwangi  AKA Jamesh</span>
-
-[![image6.png](https://i.postimg.cc/FHTTrPrS/image6.png)](https://postimg.cc/gx6V4H6c)
 
 Introduction
 ============
