@@ -1,6 +1,6 @@
 ---
 title: Network Traffic Analysis
-date: 2024-08-20 10:18:00 +0300
+date: 2024-10-23 10:18:00 +0300
 categories: [HackTheBox, Network Security, Cyber Forensics, Network Traffic Analysis]
 tags: [hackthebox, traffic-analysis, packet-inspection, tcpdump, wireshark, IDS, intrusion-detection, CTF]
 image: /assets/img/Posts/NTA/images/NTAhero.png
