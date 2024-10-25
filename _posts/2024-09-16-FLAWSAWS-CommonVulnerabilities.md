@@ -3,9 +3,7 @@ title: "FLAWS.cloud Common AWS Vulnerabilities"
 date: 2024-09-16 16:16:00 +0300
 categories: [aws security, cloud security, vulnerabilities, flaws.cloud]
 tags: [aws security, cloud vulnerabilities, encryption, key management, security best practices, flaws.cloud]
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: true
+image: /assets/img/Posts/Flaws/Flawshero.png
 ---
 
 
