@@ -52,13 +52,13 @@ At what layer of the OSI model is a PDU encapsulated into a packet? ( the number
 
 _3_
 
-![](/assets/img/Posts/NTA//assets/img/Posts/NTA/images/image4.png)
+![](/assets/img/Posts/NTA/images/image4.png)
 
 What addressing mechanism utilizes a 32-bit address?
 
 _IPv4_
 
-![](/assets/img/Posts/NTA/NTA/images/image3.png)
+![](/assets/img/Posts/NTA/images/image3.png)
 
 What Transport layer protocol is connection-oriented?
 
