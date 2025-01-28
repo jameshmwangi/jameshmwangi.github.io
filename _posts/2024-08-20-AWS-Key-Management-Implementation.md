@@ -21,7 +21,7 @@ Objective:
 Demonstrate the integration of AWS Key Management Service (KMS) with AWS services, such as Amazon S3 and Amazon EBS, to streamline the encryption and decryption process. This involves enabling data encryption within these services without requiring manual key management, showcasing how KMS simplifies secure data handling in cloud environments.
 
 
-Lab implementation
+Lab Implementation
 ==================
 
 Login to your AWS Web console (root account) and create an IAM account.

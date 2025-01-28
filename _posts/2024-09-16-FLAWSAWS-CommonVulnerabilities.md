@@ -31,7 +31,7 @@ Secure Metadata Service Access: Ensure the metadata service endpoint (169.254.16
 
 Monitor Read-Only Permissions :Identify why it’s proactive to be cautious with read-only permissions, such as the SecurityAudit policy, as they can inadvertently aid attackers in identifying vulnerabilities. Regularly review and manage these permissions to maintain a secure environment.
 
-Level 1 :
+Level 01 :
 =========
 
 The site flaws.cloud is hosted as an S3 bucket. This is a great way to host a static site, similar to hosting one via github pages. to confirm the hosting . You can determine the site is hosted as an S3 bucket by running a DNS lookup on the domain, such as:
