@@ -27,7 +27,7 @@ IAM access keys: Identify an IAM role with excessive permissions and exploit it 
 
 Protect Backups and Snapshots:Implement stringent access controls to secure backups and snapshots of EC2 instances and databases, as they can be exploited by attackers to gain unauthorized access.
 
-Secure Metadata Service Access: Ensure the metadata service endpoint (169.254.169.254) is properly secured to prevent the exposure of sensitive information
+Secure Metadata Service Access: Ensure the metadata service endpoint (_169.254.169.254_) is properly secured to prevent the exposure of sensitive information
 
 Monitor Read-Only Permissions :Identify why it’s proactive to be cautious with read-only permissions, such as the SecurityAudit policy, as they can inadvertently aid attackers in identifying vulnerabilities. Regularly review and manage these permissions to maintain a secure environment.
 
