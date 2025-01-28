@@ -3,7 +3,7 @@ title: AWS Key Management Implementation
 date: 2024-08-20 12:08:00 +0300
 categories: [aws, cloud, encryption]
 tags: [aws, encryption, keys, cloud, security]
-image: /assets/img/Posts/KMS/kms.jpg
+image: [kms.jpg](https://postimg.cc/p5x7qJnP)
 ---
 
 

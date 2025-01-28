@@ -3,7 +3,7 @@ title: WLAN Configuration
 date: 2024-10-23 15:06:00 +0300
 categories: [Network Security, Wireless Networks,Network Configuration, Cisco Labs]
 tags: [packet-tracer, wlan-security, wireless-security, network-configuration, RADIUS, enterprise-networking]
-image: /assets/img/Posts/WLAN/wlanhero.png
+image: [wlanhero.png](https://postimg.cc/MM1N7FHs)
 ---
 
 
