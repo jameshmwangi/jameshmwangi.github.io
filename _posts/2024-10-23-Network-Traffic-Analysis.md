@@ -334,4 +334,4 @@ Glad to share this achievement:  [https://academy.hackthebox.com/achievement/13
 # Conclusion
 
 
-Completing the Network Traffic Analysis module has given me a solid foundation in analyzing and interpreting network data, which is essential in cybersecurity. By working hands-on with tools like Wireshark and tcpdump, I’ve learned to spot malicious patterns and leverage intrusion detection systems effectively. This experience has strengthened my skills in detecting network anomalies and has equipped me with practical tools and methodologies that I can apply in real-world network defense and threat intelligence scenarios.
+Completing the NetworkTraffic Analysis module has given me a solid foundation in analyzing and interpreting network data, which is essential in cybersecurity. By working hands-on with tools like Wireshark and tcpdump, I’ve learned to spot malicious patterns and leverage intrusion detection systems effectively. This experience has strengthened my skills in detecting network anomalies and has equipped me with practical tools and methodologies that I can apply in real-world network defense and threat intelligence scenarios.
