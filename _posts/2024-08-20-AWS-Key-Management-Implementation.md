@@ -13,7 +13,7 @@ image: /assets/img/Posts/KMS/kms.jpg
 Introduction
 ============
 
-The AWS Key Management Service (KMS) provides secure storage and rotation of encryption keys with robust access control. For a cloud security engineer, it's crucial to have a comprehensive understanding of AWS KMS to ensure the security and integrity of data. Mastery of AWS KMS involves learning how to create, manage, and use cryptographic keys effectively within AWS services and applications. This entails understanding key policies, utilizing both customer-managed and AWS-managed keys, enabling automatic key rotation, and integrating KMS with other AWS services to ensure consistent enforcement of data encryption and access controls.
+The AWS (KMS) Key Management Service  provides secure storage and rotation of encryption keys with robust access control. For a cloud security engineer, it's crucial to have a comprehensive understanding of AWS KMS to ensure the security and integrity of data. Mastery of AWS KMS involves learning how to create, manage, and use cryptographic keys effectively within AWS services and applications. This entails understanding key policies, utilizing both customer-managed and AWS-managed keys, enabling automatic key rotation, and integrating KMS with other AWS services to ensure consistent enforcement of data encryption and access controls .
 
 Objective:
 ==========
